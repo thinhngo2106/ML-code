@@ -5,4 +5,4 @@
 
 Get the datasets from https://github.com/Avik-Jain/100-Days-Of-ML-Code/tree/master/datasets
 
-Project sẽ tạm dừng tại ngày 04/01/2022 do lịch thi học kỳ và dự án mình tham gia cần phải hoàn thành
+Project sẽ bắt đầu lại vào ngày 29/01/2022. 
