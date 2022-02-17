@@ -1,8 +1,8 @@
-# 30days-ML-Code
-30 days ML code
+# Ml - code
+ML - code 
 
-30 Days of Machine Learning Coding as proposed by Ngô Thịnh
+Machine Learning Coding as proposed by Ngô Thịnh
 
 Get the datasets from https://github.com/Avik-Jain/100-Days-Of-ML-Code/tree/master/datasets
 
-Project sẽ bắt đầu lại vào ngày 29/01/2022. 
+Dự án sẽ giúp mình xây dựng mô hình lại từ đầu (build model from scratch)
