@@ -1,4 +1,4 @@
-# Ml - code
+# ML - code
 ML - code 
 
 Machine Learning Coding as proposed by Ngô Thịnh
